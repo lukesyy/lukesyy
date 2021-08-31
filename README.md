@@ -2,7 +2,7 @@
 
 ### 你好 👋
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
+- :orange_book:  web Front-end
+- :skill:JavaScript&Vue&Election&Html&Css&NodeJs
+- :hobby: comic
 - :meat_on_bone: Meat lover
