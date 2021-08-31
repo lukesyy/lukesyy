@@ -3,6 +3,6 @@
 ### 你好 👋
 
 - :orange_book:  web Front-end
-- :skill:JavaScript&Vue&Election&Html&Css&NodeJs
-- :hobby: comic
+- :sparkles: JavaScript&Vue&Election&Html&Css&NodeJs
+- :heart: comic
 - :meat_on_bone: Meat lover
